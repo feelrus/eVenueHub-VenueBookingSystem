@@ -44,10 +44,10 @@ C:\xampp\htdocs\
 ### 4. Create Database
 
 1. Open phpMyAdmin
-2. Create Tables
-3. Select database evenuehubdb
+2. Create a database named: evenuehubdb
+3. Select the database evenuehubdb
 4. Go to Import tab
-5. Import evenuehubdb.sql file
+5. Choose the file: evenuehubdb.sql
 6. Click Import
 ---
 
@@ -56,8 +56,11 @@ C:\xampp\htdocs\
 Open in browser:
 http://localhost/evenuehub/index.php
 
+---
 
 ### 6. Login
 
 Register a new account OR
 Use admin account:
+
+---
