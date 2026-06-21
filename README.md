@@ -62,5 +62,8 @@ http://localhost/evenuehub/index.php
 
 Register a new account OR
 Use admin account:
-
+```bash
+Username: admin  
+Password: admin1234
+```
 ---
